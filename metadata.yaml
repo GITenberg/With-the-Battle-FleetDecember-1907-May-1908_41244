@@ -1,0 +1,35 @@
+_repo: With-the-Battle-FleetDecember-1907-May-1908_41244
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Reuterdahl, Henry
+    alias: Reuterdahl, H. (Henry)
+    birthdate: 1871
+    deathdate: 1925
+    gutenberg_agent_id: '33712'
+    url: http://www.gutenberg.org/2009/agents/33712
+covers:
+- cover_type: archival
+  image_path: 41244-h/images/coversmall.jpg
+creator:
+  author:
+    agent_name: Matthews, Franklin
+    birthdate: 1858
+    deathdate: 1917
+    gutenberg_agent_id: '41066'
+    url: http://www.gutenberg.org/2009/agents/41066
+description: ''
+gutenberg_issued: '2012-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41244'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Navy. Atlantic Fleet -- Cruise, 1907-1909'
+- !lcc 'VA'
+title: "With the Battle Fleet\r\nCruise of the Sixteen Battleships of the United States\
+  \ Atlantic Fleet from Hampton Roads to the Golden Gate, December, 1907-May, 1908"
+url: http://www.gutenberg.org/ebooks/41244
